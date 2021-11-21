@@ -1,0 +1,23 @@
+{
+  "name": "moasis",
+  "version": "1.0.0",
+  "description": "The music bot by Delicacy Sound",
+  "main": "index.js",
+  "dependencies": {
+    "ffmpeg-static": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delicacy-Sound/moasis.git"
+  },
+  "author": "Delicacy Sound",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Delicacy-Sound/moasis/issues"
+  },
+  "homepage": "https://github.com/Delicacy-Sound/moasis#readme"
+}
